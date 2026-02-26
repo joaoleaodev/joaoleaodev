@@ -14,4 +14,4 @@
 Busco oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos e crescer na área de tecnologia.
 
 ## 📫 Contato
-- LinkedIn: (coloque seu link aqui)
+- LinkedIn: www.linkedin.com/in/joaoleaodev
