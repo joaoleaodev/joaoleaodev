@@ -15,3 +15,4 @@ Busco oportunidade de estágio em desenvolvimento para aplicar meus conhecimento
 
 ## 📫 Contato
 - LinkedIn: www.linkedin.com/in/joaoleaodev
+- E-mail: joaopontes@gmail.com
