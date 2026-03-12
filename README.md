@@ -1,18 +1,18 @@
-# 👋 Olá, eu sou João
+# 👋 Hi, I'm João
 
-🎓 Estudante de Engenharia de Software na FIAP  
-💻 Desenvolvedor Java em formação  
-🚀 Focado em Backend e evolução constante  
+🎓 Software Engineering student at FIAP  
+💻 Developer in training  
+🚀 Focused on Backend and constant evolution  
 
-## 📚 Atualmente estudando:
-- Lógica de Programação
-- Java
-- Estruturas de Dados
-- Versionamento com Git
+## 📚 Currently studying:
+- Programming Logic
+- Python
+- Data Structures
+- Versioning with Git
 
-## 🎯 Objetivo
-Busco oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos e crescer na área de tecnologia.
+## 🎯 Objective
+I am looking for an internship opportunity in development to apply my knowledge and grow in the field of technology.
 
-## 📫 Contato
+## 📫 Contact
 - LinkedIn: www.linkedin.com/in/joaoleaodev
 - E-mail: joaopontes@gmail.com
