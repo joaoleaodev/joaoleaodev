@@ -9,6 +9,7 @@ Since I was young, I’ve been interested in technology. My curiosity started wh
 ## 📚 Currently studying:
 - Programming Logic
 - Python
+- Java
 - Data Structures
 - Versioning with Git
 
