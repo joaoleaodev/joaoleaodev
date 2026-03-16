@@ -14,11 +14,10 @@ Welcome! This is where I build, learn, and share my journey in software developm
 
 ## 🛠️ Technologies and Tools
 
+Currently studying Python, Java and backend development.
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
 </p>
-
-Currently studying programming logic, Python, Java and backend development.
 
 ---
 
