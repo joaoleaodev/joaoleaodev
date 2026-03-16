@@ -24,6 +24,7 @@ Currently studying Python, Java and backend development.
 ## 📊 GitHub Stats
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoleaodev&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoleaodev&layout=compact&theme=tokyonight)
 
 ---
