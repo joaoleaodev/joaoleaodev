@@ -5,9 +5,10 @@ Welcome! This is where I build, learn, and share my journey in software developm
 ---
 
 ## 👨‍💻 About me 
-🎓 Software Engineering student at FIAP  
-💻 Developer in training  
-🚀 Focused on Backend and constant evolution  
+
+- 🎓 Software Engineering student at FIAP  
+- 💻 Developer in training  
+- 🚀 Focused on Backend and constant evolution  
 
 ---
 
@@ -21,8 +22,10 @@ Currently studying programming logic, Python, Java and backend development.
 
 ---
 
-## 🎯 Objective
-I am looking for an internship opportunity in development to apply my knowledge and grow in the field of technology.
+## 📊 GitHub Stats
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoleaodev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoleaodev&layout=compact&theme=tokyonight)
 
 ---
 
