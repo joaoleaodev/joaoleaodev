@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=João%20Leão&fontSize=50&fontColor=ffffff"/>
-</p>
-
 # 👋 Hi, I'm João
 
 Welcome! This is where I build, learn, and share my journey in software development. 💻🚀
