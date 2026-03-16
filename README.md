@@ -1,6 +1,6 @@
 # 👋 Hi, I'm João
 
-Since I was young, I’ve been interested in technology. My curiosity started when I had my first contact with video games at age 10, which sparked my passion for the tech world and programming.
+Welcome! This is where I build, learn, and share my journey in software development. 💻🚀
 
 🎓 Software Engineering student at FIAP  
 💻 Developer in training  
@@ -11,7 +11,7 @@ Since I was young, I’ve been interested in technology. My curiosity started wh
 - Python
 - Java
 - Data Structures
-- Versioning with Git
+- Git
 
 ## 🎯 Objective
 I am looking for an internship opportunity in development to apply my knowledge and grow in the field of technology.
