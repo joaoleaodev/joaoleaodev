@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00F72A&center=true&vCenter=true&width=600&lines=Hi+I'm+João+Leão;Software+Engineering+Student;Future+Backend+Developer;Python+Learner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=João%20Leão&fontSize=50&fontColor=ffffff"/>
 </p>
 
 # 👋 Hi, I'm João
