@@ -32,7 +32,8 @@ Currently studying Python, Java and backend development.
 ## 🚀 Projects
 Here you can find projects I built while learning programming and improving my skills.
 
-1. [Rock Paper Scissors ](https://github.com/joaoleaodev/rock-paper-scissors-python) : Python game where the user plays against the computer.
+1. [Rock Paper Scissors 🎮](https://github.com/joaoleaodev/rock-paper-scissors-python) : Python game where the user plays against the computer.
+2. [Login System 🔐](https://github.com/joaoleaodev/login-system-python) : Python login system with three possible outcomes: success, retry, and account lock.
 
 ---
 
