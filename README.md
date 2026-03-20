@@ -34,6 +34,7 @@ Here you can find projects I built while learning programming and improving my s
 
 1. [Rock Paper Scissors 🎮](https://github.com/joaoleaodev/rock-paper-scissors-python) : Python game where the user plays against the computer.
 2. [Login System 🔐](https://github.com/joaoleaodev/login-system-python) : Python login system with three possible outcomes: success, retry, and account lock.
+3. [Number Analyzer 🔢](https://github.com/joaoleaodev/number-analyzer-python) : Python number analyzer that evaluates user input and handles three outcomes: accepted value, retry prompt, or limit reached.
 
 ---
 
